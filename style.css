@@ -3,8 +3,8 @@ html{
 }
 
 body {
-  background: -webkit-linear-gradient(200deg, #008B8B, #008B8B);
-  background: linear-gradient(205deg, #008B8B, #008B8B);
+  background: -webkit-linear-gradient(200deg, #0000FF, #0000FF);
+  background: linear-gradient(205deg, #0000FF, #0000FF);
   height: 100vh;
   margin: 0; 
   padding: 0;
